@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gyani123.aternos.me:36896",
+    "ip": "gyani123.aternos.me",
     "port": 36896,
     "version": "",
     "try-creative": false
